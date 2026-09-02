@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Eliu Silva, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio no EMJM, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANDE.
+Sou estudante de Análise e Desenvolvimento de Sistemas e um grande entusiasta da tecnologia. Com uma base sólida em lógica de programação, venho desenvolvendo habilidades práticas em Python, JavaScript, SQL e HTML, além de explorar integrações com Inteligência Artificial e me aprofundar em Cibersegurança. Minha vivência anterior com auditoria e controle de processos me proporcionou uma visão muito analítica, organização e capacidade de resolver problemas complexos com raciocínio lógico. Sou colaborativo, prezo por uma comunicação assertiva e busco uma oportunidade para construir soluções que sejam, ao mesmo tempo, eficientes, escaláveis e seguras.
 
     
 
