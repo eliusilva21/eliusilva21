@@ -57,3 +57,11 @@ Me chamo Eliu Silva, tenho 22 anos e sou natural de Pernambuco. Concluí o ensin
     style="padding-right: 10px;" 
     src= "https://github-stats-extended.vercel.app/api?username=eliusilva21"
   />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src= "https://github-stats-extended.vercel.app/api?username=eliusilva21"
+  />
