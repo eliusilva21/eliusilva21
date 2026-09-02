@@ -33,7 +33,7 @@ Me chamo Eliu Silva, tenho 22 anos e sou natural de Pernambuco. Concluí o ensin
     title="Javascript"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     />
 
 <img 
